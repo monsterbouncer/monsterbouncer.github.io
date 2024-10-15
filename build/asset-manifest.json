@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/monsterbouncer.github.io/static/css/main.1096b041.css",
-    "main.js": "/monsterbouncer.github.io/static/js/main.cff47175.js",
+    "main.js": "/monsterbouncer.github.io/static/js/main.65294952.js",
     "static/js/453.b609bb84.chunk.js": "/monsterbouncer.github.io/static/js/453.b609bb84.chunk.js",
     "static/media/monsters1.png": "/monsterbouncer.github.io/static/media/monsters1.42978081d6990ae593f0.png",
     "static/media/halloweenCoins.jpg": "/monsterbouncer.github.io/static/media/halloweenCoins.b7bd51473d0e046a587b.jpg",
@@ -10,11 +10,11 @@
     "index.html": "/monsterbouncer.github.io/index.html",
     "static/media/successIcon.svg": "/monsterbouncer.github.io/static/media/successIcon.4d60bc7b198cb18768b78a225ce99a82.svg",
     "main.1096b041.css.map": "/monsterbouncer.github.io/static/css/main.1096b041.css.map",
-    "main.cff47175.js.map": "/monsterbouncer.github.io/static/js/main.cff47175.js.map",
+    "main.65294952.js.map": "/monsterbouncer.github.io/static/js/main.65294952.js.map",
     "453.b609bb84.chunk.js.map": "/monsterbouncer.github.io/static/js/453.b609bb84.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1096b041.css",
-    "static/js/main.cff47175.js"
+    "static/js/main.65294952.js"
   ]
 }

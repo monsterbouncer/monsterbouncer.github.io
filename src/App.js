@@ -27,9 +27,9 @@ function App() {
         pending: pendingIcon,
         error: errorIcon,
     };
-    useEffect(() => {
-        alert("test")
-    }, []);
+    // useEffect(() => {
+    //     alert("test")
+    // }, []);
     function getCoin(coinN, isSmall = true, row = 1){
         return `<span class="coin coin${coinN} ${isSmall ? "small" : ""} row${row}"></span>`;
     }

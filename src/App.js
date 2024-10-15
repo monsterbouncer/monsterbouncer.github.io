@@ -13,7 +13,7 @@ function App() {
     const [minusDamage, setMinusDamage] = useState(100);
     const [userData, setUserData] = useState({
         level: 0,
-        kickDamage: 40,
+        kickDamage: 1,
         coins: {
             coin1: 0,
             coin2: 0,
